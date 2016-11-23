@@ -5,4 +5,5 @@ testing to see if this changes will be copied over to my local machine
 
 Register a change in an index
 
-Obtain the content of the remote repository
+Mergin remote repo changes first
+
