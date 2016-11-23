@@ -7,3 +7,5 @@ Register a change in an index
 
 Mergin remote repo changes first
 
+Save the status of an index
+
