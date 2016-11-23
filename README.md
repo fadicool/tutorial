@@ -7,3 +7,4 @@ Register a change in an index
 
 Mergin remote repo changes first
 
+Obtain the content of the remote repository
