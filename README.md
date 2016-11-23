@@ -9,3 +9,5 @@ Mergin remote repo changes first
 
 Save the status of an indeXX
 
+Obtain the content of the remote repository
+
