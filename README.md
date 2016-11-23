@@ -7,8 +7,7 @@ YET another update to test git pull command
 
 testing the PUSH command this time
 
-<<<<<<< HEAD
 editing this file and trying to push it when there has been some changes to the remote repo
-=======
+
 made some changes to the local repo and trying to push it when changes have been made to the remote repo after tha last pull to local
->>>>>>> 623aef71a0d095878891478bb3ebb7af80187cc8
+
